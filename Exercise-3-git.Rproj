@@ -1,0 +1,16 @@
+Version: 1.0
+ProjectId: 2fd2aed3-8e26-4291-8655-601d6fe996bd
+
+RestoreWorkspace: Default
+SaveWorkspace: Default
+AlwaysSaveHistory: Default
+
+EnableCodeIndexing: Yes
+UseSpacesForTab: Yes
+NumSpacesForTab: 2
+Encoding: UTF-8
+
+RnwWeave: Sweave
+LaTeX: pdfLaTeX
+
+ProjectName: 2025-exeRcise-sheet-3
